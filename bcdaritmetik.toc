@@ -1,0 +1,34 @@
+\select@language {swedish}
+\contentsline {chapter}{\numberline {1}Inledning}{3}
+\contentsline {subparagraph}{\nonumberline Omvandling}{3}
+\contentsline {subsubsection}{\nonumberline Exempel: Omvandla det decimala talet 6591 till BCD}{3}
+\contentsline {chapter}{\numberline {2}Aritmetik}{5}
+\contentsline {section}{\numberline {2.1}Addition}{5}
+\contentsline {subsubsection}{\nonumberline Exempel: Addera 5 + 6 som BCD-kodade tal.}{5}
+\contentsline {subsubsection}{\nonumberline Exempel: Addera 38 + 75 som BCD-kodade tal.}{6}
+\contentsline {section}{\numberline {2.2}BCD-adderare}{6}
+\contentsline {section}{\numberline {2.3}Subtraktion}{7}
+\contentsline {paragraph}{\nonumberline Tio-komplementet}{7}
+\contentsline {subsubsection}{\nonumberline Exempel: Best\IeC {\"a}m BCD-koden f\IeC {\"o}r det negativa talet --963.}{8}
+\contentsline {subsubsection}{\nonumberline Exempel: Ett annat tal, $960$, tio-komplementeras p\IeC {\r a} samma s\IeC {\"a}tt. Gl\IeC {\"o}m inte att decimal\discretionary {-}{}{}justera resultatet.}{8}
+\contentsline {paragraph}{\nonumberline Subtraktion}{8}
+\contentsline {subsubsection}{\nonumberline Exempel: Utf\IeC {\"o}r subtraktionen 2943 -- 698.}{8}
+\contentsline {section}{\numberline {2.4}Multiplikation}{9}
+\contentsline {subsubsection}{\nonumberline Exempel: Multiplicera talen 1234 och 4321.}{9}
+\contentsline {subsubsection}{\nonumberline Exempel: Partialprodukt}{10}
+\contentsline {subsubsection}{\nonumberline Exempel: Partialprodukt och h\IeC {\"o}gerskift}{10}
+\contentsline {paragraph}{\nonumberline Multiplikation med tecken}{11}
+\contentsline {paragraph}{\nonumberline Multiplikationsdetaljer}{11}
+\contentsline {subparagraph}{\nonumberline Fler m\IeC {\"o}jligheter}{11}
+\contentsline {paragraph}{\nonumberline 8x8-multiplikation}{12}
+\contentsline {subsubsection}{\nonumberline Exempel: Partialprodukt och h\IeC {\"o}gerskift 8x8 siffror.}{12}
+\contentsline {section}{\numberline {2.5}Division}{12}
+\contentsline {subsubsection}{\nonumberline Exempel: Liggande stolen}{13}
+\contentsline {paragraph}{\nonumberline 8/8-division}{14}
+\contentsline {subsubsection}{\nonumberline Exempel:}{14}
+\contentsline {chapter}{\numberline {3}Implementation}{15}
+\contentsline {paragraph}{\nonumberline Minneslayout}{15}
+\contentsline {chapter}{\numberline {A}8x8-multiplikation med upprepad addition}{17}
+\contentsline {subsubsection}{\nonumberline Exempel: Partialprodukt och h\IeC {\"o}gerskift, alla steg}{17}
+\contentsline {chapter}{\numberline {B}\emph {Double dabble}-algoritmen}{18}
+\contentsline {subsubsection}{\nonumberline Exempel: Omvandla \texttt {1100}$_2$ till BCD med \emph {double dabble}-algoritmen}{18}
