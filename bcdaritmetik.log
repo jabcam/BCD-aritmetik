@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.9.12)  16 FEB 2019 15:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.9.12)  27 MAR 2019 15:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -889,10 +889,7 @@ File: upxsyc.fd 2000/12/14 v1.0
 
 
 {/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./bcda
-ritmetik.toc
-LaTeX Font Info:    Font shape `T1/pxss/bx/it' in size <10> not available
-(Font)              Font shape `T1/pxss/bx/sl' tried instead on input line 33.
-)
+ritmetik.toc)
 \tf@toc=\write4
 \openout4 = `bcdaritmetik.toc'.
 
@@ -927,24 +924,24 @@ chapter 2.
 [5
 
 
-] <bcdfa.pdf, id=30, 517.935pt x 329.23pt>
-File: bcdfa.pdf Graphic file (type pdf)
- <use bcdfa.pdf>
-Package pdftex.def Info: bcdfa.pdf used on input line 143.
+] <bcdfa.jpg, id=29, 517.935pt x 329.23pt>
+File: bcdfa.jpg Graphic file (type jpg)
+ <use bcdfa.jpg>
+Package pdftex.def Info: bcdfa.jpg used on input line 143.
 (pdftex.def)             Requested size: 155.38168pt x 98.76976pt.
 
-<bcdfas.pdf, id=31, 784.9325pt x 332.24126pt>
+<bcdfas.pdf, id=30, 784.9325pt x 332.24126pt>
 File: bcdfas.pdf Graphic file (type pdf)
  <use bcdfas.pdf>
 Package pdftex.def Info: bcdfas.pdf used on input line 149.
 (pdftex.def)             Requested size: 235.48155pt x 99.67314pt.
 
-<fakedja.pdf, id=32, 683.55376pt x 497.86pt>
+<fakedja.pdf, id=31, 683.55376pt x 497.86pt>
 File: fakedja.pdf Graphic file (type pdf)
  <use fakedja.pdf>
 Package pdftex.def Info: fakedja.pdf used on input line 156.
 (pdftex.def)             Requested size: 273.41666pt x 199.14047pt.
- [6 <./bcdfa.pdf> <./bcdfas.pdf>]
+ [6 <./bcdfa.jpg> <./bcdfas.pdf>]
 Overfull \hbox (2.67926pt too wide) in paragraph at lines 179--180
 []\T1/pxr/m/n/10 En kon-se-kvens av det-ta är att tal-om-rå-det in-te kan va-ra
  $[]$ ut-an en-bart $[]$.
@@ -968,19 +965,19 @@ Overfull \hbox (19.33072pt too wide) in paragraph at lines 531--532
 -len med ta-len i tecken-belopp-representation
  []
 
-<bcdformat1.pdf, id=278, 700.6175pt x 122.4575pt>
+<bcdformat1.pdf, id=250, 700.6175pt x 122.4575pt>
 File: bcdformat1.pdf Graphic file (type pdf)
  <use bcdformat1.pdf>
 Package pdftex.def Info: bcdformat1.pdf used on input line 538.
 (pdftex.def)             Requested size: 280.24203pt x 48.98212pt.
 
-<bcdformat2.pdf, id=279, 700.6175pt x 115.43124pt>
+<bcdformat2.pdf, id=251, 700.6175pt x 115.43124pt>
 File: bcdformat2.pdf Graphic file (type pdf)
  <use bcdformat2.pdf>
 Package pdftex.def Info: bcdformat2.pdf used on input line 544.
 (pdftex.def)             Requested size: 280.24203pt x 46.17168pt.
 
-<psp.pdf, id=280, 769.87625pt x 448.67625pt>
+<psp.pdf, id=252, 769.87625pt x 448.67625pt>
 File: psp.pdf Graphic file (type pdf)
  <use psp.pdf>
 Package pdftex.def Info: psp.pdf used on input line 557.
@@ -993,21 +990,13 @@ chapter A.
 [17
 
 
-]
-chapter B.
-LaTeX Font Info:    Font shape `T1/pxss/bx/it' in size <20.74> not available
-(Font)              Font shape `T1/pxss/bx/sl' tried instead on input line 602.
-
-[18
-
-
 ] (./bcdaritmetik.aux) ) 
 Here is how much of TeX's memory you used:
- 7941 strings out of 492995
- 119507 string characters out of 6132704
- 305058 words of memory out of 5000000
- 11302 multiletter control sequences out of 15000+600000
- 59670 words of font info for 126 fonts, out of 8000000 for 9000
+ 7933 strings out of 492995
+ 119401 string characters out of 6132704
+ 305034 words of memory out of 5000000
+ 11298 multiletter control sequences out of 15000+600000
+ 53484 words of font info for 120 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  48i,8n,66p,8847b,1687s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/bas
@@ -1020,14 +1009,14 @@ e/2017/texmf-dist/fonts/type1/public/pxfonts/rpxmi.pfb></usr/local/texlive/2017
 dist/fonts/type1/public/txfonts/t1xbtt.pfb></usr/local/texlive/2017/texmf-dist/
 fonts/type1/public/txfonts/t1xtt.pfb></usr/local/texlive/2017/texmf-dist/fonts/
 type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/u
-rw/helvetic/uhvb8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/pala
-tino/uplb8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/palatino/up
-lr8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/palatino/uplr8a.pf
-b></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on bcdaritmetik.pdf (18 pages, 400263 bytes).
+rw/palatino/uplb8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/pala
+tino/uplr8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/palatino/up
+lr8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/palatino/uplri8a.p
+fb>
+Output written on bcdaritmetik.pdf (17 pages, 393490 bytes).
 PDF statistics:
- 670 PDF objects out of 1000 (max. 8388607)
- 394 compressed objects within 4 object streams
+ 636 PDF objects out of 1000 (max. 8388607)
+ 369 compressed objects within 4 object streams
  0 named destinations out of 1000 (max. 500000)
  31 words of extra memory for PDF output out of 10000 (max. 10000000)
 

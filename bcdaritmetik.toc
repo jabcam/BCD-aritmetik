@@ -30,5 +30,3 @@
 \contentsline {paragraph}{\nonumberline Minneslayout}{15}
 \contentsline {chapter}{\numberline {A}8x8-multiplikation med upprepad addition}{17}
 \contentsline {subsubsection}{\nonumberline Exempel: Partialprodukt och h\IeC {\"o}gerskift, alla steg}{17}
-\contentsline {chapter}{\numberline {B}\emph {Double dabble}-algoritmen}{18}
-\contentsline {subsubsection}{\nonumberline Exempel: Omvandla \texttt {1100}$_2$ till BCD med \emph {double dabble}-algoritmen}{18}
