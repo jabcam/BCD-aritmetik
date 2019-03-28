@@ -1,2 +1,2 @@
 # BCD-aritmetik
-A document showing some BCD-arithmetic. No code inluded. And it's in swedish.
+A document showing some BCD-arithmetic. No code included. And it's in swedish.
